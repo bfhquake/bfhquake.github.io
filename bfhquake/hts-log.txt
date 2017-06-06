@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Jun 2017 10:20:26 at https://duminimal.wixsite.com/bfhquake +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://duminimal.wixsite.com/bfhquake -O1 "C:\My Web Sites\bfhquake" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:20:29	Warning: 	Note: due to https://duminimal.wixsite.com remote robots.txt rules, links beginning with these path will be forbidden: /api/, /bo/, /editor.jsp, /noflashhtml, /siteBackHtml, /wix/, /wixpress/, /wixdemo/, /wix-editor/, /editor2.jsp, /flash/, /flash-templates/, /jobs/seo/, /website-template/view/flash/, /facebook-template/, /facebook/templates/, /website/templates/flash/, /favicon.ico (see in the options to disable this)
+10:20:34	Error: 	"Not Found" (404) at link https://duminimal.wixsite.com/sitemap.xml (from https://duminimal.wixsite.com/bfhquake)
+10:20:34	Error: 	"Not Found" (404) at link https://duminimal.wixsite.com/feed.xml (from https://duminimal.wixsite.com/bfhquake)
+10:20:34	Error: 	"Not Found" (404) at link https://duminimal.wixsite.com/ (from https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js)
+10:20:34	Error: 	"Not Found" (404) at link https://duminimal.wixsite.com/GET (from https://static.parastorage.com/services/santa/1.2311.5/app/main-r.min.js)
+10:20:34	Error: 	"Not Found" (404) at link https://duminimal.wixsite.com/Version/ (from https://static.parastorage.com/services/third-party/tweenmax/1.19.0/minified/TweenMax.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 seconds : 12 links scanned, 6 files written (403337 bytes overall) [146493 bytes received at 18311 bytes/sec], 418992 bytes transferred using HTTP compression in 11 files, ratio 32%, 1.7 requests per connection
+(5 errors, 1 warnings, 0 messages)

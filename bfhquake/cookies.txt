@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+duminimal.wixsite.com	TRUE	/bfhquake	FALSE	1999999999	svSession	2ce62e4e9f90cbc114b78a697ccdd65fc96efcd2e4be44084ecadf29988ea22662dc2beee630ae5980d300462d1f2c4c1e60994d53964e647acf431e4f798bcd12985b12377ae153f49b27141ed68d47d84442fe7013392fcb55f84d40b5f774
+duminimal.wixsite.com	TRUE	/	FALSE	1999999999	hs	1562354948
+.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	eaa2c150-d398-4a98-b2f9-db57a6de9df0
+.wix.com	TRUE	/	FALSE	1999999999	userType	ANONYMOUS
+.wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+
